@@ -44,8 +44,3 @@
   url = "https://github.com/Surendrajat/APKLab"
   post = "v0.1.0"
   weight = 20
-
-# [[footer]]
-#   name = "Privacy"
-#   url = "/privacy-policy/"
-#   weight = 10
