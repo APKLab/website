@@ -1,12 +1,11 @@
-name = "Doks"
-license = "MIT"
-licenselink = "https://github.com/h-enk/doks/blob/master/LICENSE"
-description = "Hugo theme helping you build modern documentation websites that are secure, fast, and SEO-ready — by default."
-homepage = "https://getdoks.org/"
-tags = ["landing page", "documentation", "blog", "minimal", "modern", "customizable", "search", "dark mode", "bootstrap"]
-features = ["security aware", "fast by default", "seo-ready", "development tools", "bootstrap framework", "netlify-ready", "full text search", "page layouts", "dark mode"]
+name = "APK Lab"
+license = "AGPLv3"
+licenselink = "https://github.com/Surendrajat/APKLab/blob/master/LICENSE"
+description = "The ultimate Android RE experience right inside your VS Code."
+homepage = ""
+tags = ["bytecode", "disassembler", "decompiler", "re", "android", "apktool", "jadx", "apksigner", "apk studio", "apk", "reverse engineering", "analysis", "apk editor", "smali", "dalvik"]
 min_version = "0.75.0"
 
 [author]
-  name = "Henk Verlinde"
-  homepage = "https://henkverlinde.com/"
+  name = "Surendrajat"
+  homepage = "https://surendrajat.xyz"
