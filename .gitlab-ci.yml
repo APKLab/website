@@ -1,17 +1,18 @@
-image: registry.gitlab.com/pages/hugo/hugo_extended:latest
-
-variables:
-  GIT_SUBMODULE_STRATEGY: recursive
+image: node:latest
 
 test:
   script:
-    - hugo
+    - npm ci
+    - npm run clean
+    - npm run build
   except:
     - master
 
 pages:
   script:
-    - hugo
+    - npm ci
+    - npm run clean
+    - npm run build
   artifacts:
     paths:
       - public

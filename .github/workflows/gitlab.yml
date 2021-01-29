@@ -1,13 +1,12 @@
-name: GitLab Sync
+name: GitLab
 
 on:
   push:
     branches: [master]
 
 jobs:
-  sync:
+  sync-repo:
     runs-on: ubuntu-20.04
-
     steps:
       - uses: actions/checkout@v2
         with:
@@ -15,4 +14,4 @@ jobs:
       - name: push to gitlab
         run: |
           git remote add gitlab https://surendrajat:${{ secrets.GITLAB_TOKEN }}@gitlab.com/APKLab/apklab.github.io
-          git push gitlab master
+          git push gitlab master -f
