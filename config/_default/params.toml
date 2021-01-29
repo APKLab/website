@@ -1,7 +1,7 @@
 # Meta Data for SEO
 
 ## Homepage
-title = "APK Lab"
+title = "APKLab"
 titleSeparator = "-"
 titleAddition = "Android Reverse Engineering WorkBench for VS Code"
 description = "The ultimate Android RE experience right inside your VS Code."

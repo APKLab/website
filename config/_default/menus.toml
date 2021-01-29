@@ -23,7 +23,7 @@
   url = "/docs/help/"
 
 [[main]]
-  name = "Docs"
+  name = "Documentation"
   url = "/docs/main/intro"
   weight = 10
 

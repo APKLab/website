@@ -1,5 +1,5 @@
 ---
-title: "Contributing to APKLab"
+title: "General Guidelines"
 description: "Contributing to APKLab"
 draft: false
 images: []
