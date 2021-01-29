@@ -1,4 +1,4 @@
-name = "APK Lab"
+name = "APKLab"
 license = "AGPLv3"
 licenselink = "https://github.com/Surendrajat/APKLab/blob/master/LICENSE"
 description = "The ultimate Android RE experience right inside your VS Code."
