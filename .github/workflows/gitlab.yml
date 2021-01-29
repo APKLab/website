@@ -10,6 +10,8 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
       - name: push to gitlab
         run: |
           git remote add gitlab https://surendrajat:${{ secrets.GITLAB_TOKEN }}@gitlab.com/APKLab/apklab.github.io
