@@ -1,13 +1,13 @@
 ---
-title: "Commands"
-description: "Doks comes with commands for common tasks."
-date: 2020-10-13T15:21:01+02:00
-draft: false
+title: "Opening an APK"
+description: "One page summary of how to get started with APKLab."
+lead: "One page summary of how to get started with APKLab."
+draft: true
 images: []
 menu:
   docs:
     parent: "user-guide"
-weight: 130
+weight: 22
 toc: true
 ---
 
