@@ -45,4 +45,4 @@ alertText = "Like APKLab? <a class=\"alert-link\" href=\"https://github.com/Sure
 
 # Edit Page
 docsRepo = "https://github.com/Surendrajat/docs"
-editPage = true
+editPage = false
