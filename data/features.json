@@ -1,26 +1,26 @@
 [
   {
     "name": "Decode, Disassemble & Decompile",
-    "description": "Get A+ scores on <a href=\"https://observatory.mozilla.org/analyze/doks.netlify.app\">Mozilla Observatory</a> out of the box. Easily change the default Security Headers to suit your needs."
+    "description": "Decode APK resources from <code>resources.arsc</code>, Disassemble <code>classes*.dex</code> to Smali and Decompile to Java [uses <a href='https://ibotpeaches.github.io/Apktool'>Apktool</a> & <a href='https://github.com/skylot/jadx'>Jadx</a>]"
   },
   {
     "name": "Malware Analysis Report",
-    "description": "Get A+ scores on <a href=\"https://observatory.mozilla.org/analyze/doks.netlify.app\">Mozilla Observatory</a> out of the box. Easily change the default Security Headers to suit your needs."
+    "description": "Deep integration with <a href='https://github.com/quark-engine/quark-engine'>Quark-Engine</a> enables APKLab to give a detailed Malware Analysis report with ability to interact with problematic source code"
   },
   {
     "name": "Bypass Certificate Pinning",
-    "description": "Get A+ scores on <a href=\"https://observatory.mozilla.org/analyze/doks.netlify.app\">Mozilla Observatory</a> out of the box. Easily change the default Security Headers to suit your needs."
+    "description": "One-click patch for popular Certificate Pinning techniques to allow HTTPS traffic inspection with MITM proxies such as <a href='https://mitmproxy.org'>mitmproxy</a>  [uses <a href='https://github.com/shroudedcode/apk-mitm'>apk-mitm</a>]"
   },
   {
-    "name": "Edit Smali like a PRO",
-    "description": "Get A+ scores on <a href=\"https://observatory.mozilla.org/analyze/doks.netlify.app\">Mozilla Observatory</a> out of the box. Easily change the default Security Headers to suit your needs."
+    "name": "Browse Smali like a PRO",
+    "description": "With <a href='https://github.com/LoyieKing/Smalise'>Smalise</a> integration, you  get features like Syntax-Highlighting, Goto definition/references, Rename symbol, etc. out of the box"
   },
   {
     "name": "ReBuild, Sign and Install",
-    "description": "Get A+ scores on <a href=\"https://observatory.mozilla.org/analyze/doks.netlify.app\">Mozilla Observatory</a> out of the box. Easily change the default Security Headers to suit your needs."
+    "description": "Rebuild APK from modified Smali sources & resources, seamlessly re-sign it and install over ADB directly from VS Code [uses <a href='https://ibotpeaches.github.io/Apktool'>Apktool</a> & <a href='https://github.com/patrickfav/uber-apk-signer'>uber-apk-signer</a>]"
   },
   {
     "name": "And much more...",
-    "description": "Get A+ scores on <a href=\"https://observatory.mozilla.org/analyze/doks.netlify.app\">Mozilla Observatory</a> out of the box. Easily change the default Security Headers to suit your needs."
+    "description": "Make APK Debuggable, Sign with a custom certificate, Download & configure <code>.jar</code> dependencies automatically, Initialize <code>git</code> in project dir to easily track changes, Manage res frameworks.."
   }
 ]
