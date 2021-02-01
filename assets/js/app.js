@@ -1,8 +1,12 @@
 // watch browser dark mode change
 window.matchMedia('(prefers-color-scheme: dark)')
   .addEventListener('change', event => {
-    localStorage.setItem('theme', event.matches ? 'dark' : 'light');
-    document.body.classList.toggle('dark');
+    let isBrowserThemeDark = event.matches
+    let isSelectedThemeDark = localStorage.getItem('theme') === 'dark'
+    localStorage.setItem('theme', isBrowserThemeDark ? 'dark' : 'light');
+    if (isBrowserThemeDark ^ isSelectedThemeDark) {
+      document.body.classList.toggle('dark');
+    }
   })
 
 document.getElementById('mode').addEventListener('click', () => {
