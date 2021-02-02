@@ -17,9 +17,7 @@ ogLocale = "en_US"
 ## JSON-LD
 schemaType = "Organization"
 schemaLogo = "logo-doks.png"
-# schemaTwitter = "https://twitter.com/henkverlinde"
-# schemaLinkedIn = "https://www.linkedin.com/in/henkverlinde/"
-schemaGitHub = "https://github.com/Surendrajat/APKLab"
+schemaGitHub = "https://github.com/APKLab/APKLab"
 schemaSection = "blog"
 
 ## Sitelinks Search Box
@@ -41,8 +39,8 @@ footerRight = "Made with 💓 in India"
 
 # Alert
 alert = false
-alertText = "Like APKLab? <a class=\"alert-link\" href=\"https://github.com/Surendrajat/APKLab\">Star on GitHub</a>. Thanks!</a>"
+alertText = "Like APKLab? <a class=\"alert-link\" href=\"https://github.com/APKLab/APKLab\">Star on GitHub</a>. Thanks!</a>"
 
 # Edit Page
-docsRepo = "https://github.com/Surendrajat/docs"
+docsRepo = "https://github.com/APKLab/website"
 editPage = false

@@ -147,7 +147,7 @@ Source:
 
 
 //get latest github release
-let resURL = 'https://api.github.com/repos/Surendrajat/APKLab/tags'
+let resURL = 'https://api.github.com/repos/APKLab/APKLab/tags'
 fetch(resURL, {
   headers: {
     'Accept': 'application/vnd.github.v3+json',
@@ -160,7 +160,7 @@ fetch(resURL, {
   .catch(error => console.log(error));
 
 //get project license
-resURL = 'https://api.github.com/repos/Surendrajat/APKLab/license'
+resURL = 'https://api.github.com/repos/APKLab/APKLab/license'
 fetch(resURL, {
   headers: {
     'Accept': 'application/vnd.github.v3+json',
