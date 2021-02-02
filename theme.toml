@@ -1,8 +1,7 @@
 name = "APKLab"
-license = "AGPLv3"
-licenselink = "https://github.com/Surendrajat/APKLab/blob/master/LICENSE"
+license = "MIT"
 description = "The ultimate Android RE experience right inside your VS Code."
-homepage = ""
+homepage = "https://apklab.surendrajat.xyz"
 tags = ["bytecode", "disassembler", "decompiler", "re", "android", "apktool", "jadx", "apksigner", "apk studio", "apk", "reverse engineering", "analysis", "apk editor", "smali", "dalvik"]
 min_version = "0.75.0"
 
