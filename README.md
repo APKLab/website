@@ -4,6 +4,8 @@
 
 Based on [Doks](https://getdoks.org) Hugo theme.
 ## Requirements
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAPKLab%2Fwebsite.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FAPKLab%2Fwebsite?ref=badge_shield)
+
 
 - [Node.js](https://nodejs.org/) >= 14.x
 
@@ -31,3 +33,7 @@ npm run start
 ## Other commands
 
 Doks comes with few other [commands](https://getdoks.org/docs/prologue/commands/) for common tasks.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAPKLab%2Fwebsite.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FAPKLab%2Fwebsite?ref=badge_large)
