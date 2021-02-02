@@ -158,16 +158,3 @@ fetch(resURL, {
     document.getElementById('apklab_version').innerHTML = `<b>Release ${data[0].name}</b>`
   })
   .catch(error => console.log(error));
-
-//get project license
-resURL = 'https://api.github.com/repos/APKLab/APKLab/license'
-fetch(resURL, {
-  headers: {
-    'Accept': 'application/vnd.github.v3+json',
-  },
-})
-  .then(res => res.json())
-  .then(data => {
-    document.getElementById('apklab_license').innerText = data.license.spdx_id
-  })
-  .catch(error => console.log(error));
