@@ -5,7 +5,7 @@
       <h1 class="mt-0">{{ .Title }}</h1>
     </div>
     <div class="col-lg-9 col-xl-8 text-center">
-      <p class="lead">{{ .Params.Lead | safeHTML }}</p>
+      <p class="lead">{{ .Params.lead | safeHTML }}</p>
       <p class="meta">{{ .Params.Description | safeHTML }}</p>
       <a class="btn btn-primary btn-lg px-4 mb-2" href='{{ "docs/user-guide/getting-started/" | absURL }}' role="button">Get started</a>
       <p class="meta">OpenSource AGPL-3.0 Licensed. <a id="apklab_version" href="https://github.com/APKLab/APKLab"></a></p>
