@@ -9,21 +9,15 @@ weight: 11
 toc: true
 ---
 
-## Get started
+### Get Started
 
-There are two main ways to get started with Doks:
+One page summary of how to install and start using APKLab for your RE session. [Getting Started →]({{< ref "getting-started" >}})
 
 ### Tutorial
 
 {{< alert icon="👉" text="The Tutorial is intended for novice to intermediate users." >}}
 
 Step-by-step instructions on how to start a new Doks project. [Tutorial →](https://getdoks.org/tutorial/introduction/)
-
-### Quick Start
-
-{{< alert icon="👉" text="The Quick Start is intended for intermediate to advanced users." >}}
-
-One page summary of how to start a new Doks project. [Quick Start →]({{< ref "getting-started" >}})
 
 ## Go further
 

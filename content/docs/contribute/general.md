@@ -6,6 +6,7 @@ images: []
 menu:
   docs:
     parent: "contrib"
+weight: 31
 ---
 
 Thank you for considering contributing to APKLab. Just like any other Free & OpenSource project, APKLab also needs help from the community not only with adding new features but also with reporting bugs and discussing new feature ideas. Below are some instructions you can follow to make your contribution(s) more meaningful.

@@ -11,17 +11,27 @@ weight: 21
 toc: true
 ---
 
+
+{{< alert icon="👉" text="Running a command in this page refers to run it in a Terminal (Linux/macOS) or PowerShell(Windows)" >}}
+
 ## Requirements
 
+- **[VS Code](https://code.visualstudio.com)/[VSCodium](https://vscodium.com)** (obviously)
 - **JDK 8+**
+
+  Run `java --version` in your terminal/shell and if you see something like `java: command not found` then install it from [adoptopenjdk.net](https://adoptopenjdk.net).
 - **Quark-Engine**
 
   If you want to use the **Malware-Analysis** feature, make sure you have [Quark-Engine](https://github.com/quark-engine/quark-engine) installed. To install it, simply run:
   {{< btn-copy text="pip install -U quark-engine" >}}
+
   ```bash
   pip install -U quark-engine
   ```
+
 - **ADB**
+
+  Useful for installing APK to your Android device directly from VS Code. Try running `adb device` to make sure you have it installed.
 
 ## Install APKLab
 
