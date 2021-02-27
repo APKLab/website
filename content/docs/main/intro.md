@@ -9,9 +9,13 @@ weight: 11
 toc: true
 ---
 
-### Get Started
+APKLab is an OpenSource Android Reverse-engineering & Malware-analysis tool. It is developed as
+an extension to VS Code and written in TypeScript. APKLab aims at integrating existing OpenSource
+ tools in the domain and providing a more streamlined UX for common RE tasks.
 
-One page summary of how to install and start using APKLab for your RE session. [Getting Started →]({{< ref "getting-started" >}})
+### Getting Started
+
+A quick summary of how to install and start using APKLab for your RE session. [Getting Started →]({{< ref "getting-started" >}})
 
 ### Tutorial
 

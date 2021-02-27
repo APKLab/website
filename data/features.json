@@ -5,7 +5,7 @@
   },
   {
     "name": "Malware Analysis Report",
-    "description": "Deep integration with <a href='https://github.com/quark-engine/quark-engine'>Quark-Engine</a> enables APKLab to give a detailed Malware Analysis report with ability to interact with problematic source code"
+    "description": "Deep integration with <a href='https://github.com/quark-engine/quark-engine'>Quark-Engine</a> enables APKLab to provide a detailed Malware Analysis report with ability to interact with problematic source code"
   },
   {
     "name": "Bypass Certificate Pinning",

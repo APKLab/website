@@ -1,7 +1,7 @@
 ---
 title: "Getting Started"
-description: "One page summary of how to get started with APKLab."
-lead: "One page summary of how to get started with APKLab."
+description: "Quick summary of how to get started with APKLab."
+lead: "Quick summary of how to get started with APKLab."
 draft: false
 images: []
 menu:
