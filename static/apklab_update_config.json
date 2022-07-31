@@ -18,12 +18,12 @@
     },
     {
       "name": "jadx",
-      "version": "1.3.5",
-      "downloadUrl": "https://github.com/skylot/jadx/releases/download/v1.3.5/jadx-1.3.5.zip",
-      "fileName": "jadx-1.3.5.zip",
+      "version": "1.4.3",
+      "downloadUrl": "https://github.com/skylot/jadx/releases/download/v1.4.3/jadx-1.4.3.zip",
+      "fileName": "jadx-1.4.3.zip",
       "configName": "jadxDirPath",
       "zipped": true,
-      "unzipDir": "jadx-1.3.5"
+      "unzipDir": "jadx-1.4.3"
     }
   ]
 }
