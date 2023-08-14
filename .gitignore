@@ -2,3 +2,7 @@ functions
 node_modules
 public
 resources
+
+.DS_store
+.hugo_build.lock
+bun.lockb
