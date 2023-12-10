@@ -2,9 +2,9 @@
   "tools": [
     {
       "name": "apktool",
-      "version": "2.9.0",
-      "downloadUrl": "https://github.com/iBotPeaches/Apktool/releases/download/v2.9.0/apktool_2.9.0.jar",
-      "fileName": "apktool_2.9.0.jar",
+      "version": "2.9.1",
+      "downloadUrl": "https://github.com/iBotPeaches/Apktool/releases/download/v2.9.1/apktool_2.9.1.jar",
+      "fileName": "apktool_2.9.1.jar",
       "configName": "apktoolPath",
       "zipped": false
     },
