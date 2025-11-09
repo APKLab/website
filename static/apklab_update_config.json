@@ -2,9 +2,9 @@
   "tools": [
     {
       "name": "apktool",
-      "version": "2.9.3",
-      "downloadUrl": "https://github.com/iBotPeaches/Apktool/releases/download/v2.9.3/apktool_2.9.3.jar",
-      "fileName": "apktool_2.9.3.jar",
+      "version": "2.12.1",
+      "downloadUrl": "https://github.com/iBotPeaches/Apktool/releases/download/v2.12.1/apktool_2.12.1.jar",
+      "fileName": "apktool_2.12.1.jar",
       "configName": "apktoolPath",
       "zipped": false
     },
@@ -18,12 +18,12 @@
     },
     {
       "name": "jadx",
-      "version": "1.4.7",
-      "downloadUrl": "https://github.com/skylot/jadx/releases/download/v1.4.7/jadx-1.4.7.zip",
-      "fileName": "jadx-1.4.7.zip",
+      "version": "1.5.3",
+      "downloadUrl": "https://github.com/skylot/jadx/releases/download/v1.5.3/jadx-1.5.3.zip",
+      "fileName": "jadx-1.5.3.zip",
       "configName": "jadxDirPath",
       "zipped": true,
-      "unzipDir": "jadx-1.4.7"
+      "unzipDir": "jadx-1.5.3"
     }
   ]
 }
