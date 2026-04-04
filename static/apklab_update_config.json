@@ -9,6 +9,14 @@
       "zipped": false
     },
     {
+      "name": "smali-lsp",
+      "version": "1.2.0",
+      "downloadUrl": "https://github.com/Surendrajat/smali-lsp/releases/download/v1.2.0/smali-lsp-1.2.0.jar",
+      "fileName": "smali-lsp-1.2.0.jar",
+      "configName": "smaliLspPath",
+      "zipped": false
+    },
+    {
       "name": "uber-apk-signer",
       "version": "1.3.0",
       "downloadUrl": "https://github.com/patrickfav/uber-apk-signer/releases/download/v1.3.0/uber-apk-signer-1.3.0.jar",
