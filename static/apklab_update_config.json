@@ -10,9 +10,9 @@
     },
     {
       "name": "smali-lsp",
-      "version": "1.3.0",
-      "downloadUrl": "https://github.com/Surendrajat/smali-lsp/releases/download/v1.3.0/smali-lsp-1.3.0.jar",
-      "fileName": "smali-lsp-1.3.0.jar",
+      "version": "1.4.0",
+      "downloadUrl": "https://github.com/Surendrajat/smali-lsp/releases/download/v1.4.0/smali-lsp-1.4.0.jar",
+      "fileName": "smali-lsp-1.4.0.jar",
       "configName": "smaliLspPath",
       "zipped": false
     },
