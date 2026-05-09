@@ -9,6 +9,14 @@
       "zipped": false
     },
     {
+      "name": "apkeditor",
+      "version": "1.4.8",
+      "downloadUrl": "https://github.com/REAndroid/APKEditor/releases/download/V1.4.8/APKEditor-1.4.8.jar",
+      "fileName": "APKEditor-1.4.8.jar",
+      "configName": "apkEditorPath",
+      "zipped": false
+    },
+    {
       "name": "smali-lsp",
       "version": "1.5.0",
       "downloadUrl": "https://github.com/Surendrajat/smali-lsp/releases/download/v1.5.0/smali-lsp-1.5.0.jar",
